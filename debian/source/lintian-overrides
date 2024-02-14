@@ -1,0 +1,4 @@
+python-ansible-runner-http source: file-without-copyright-information
+python-ansible-runner-http source: no-debian-changes
+python-ansible-runner-http source: source-contains-prebuilt-windows-binary
+python-ansible-runner-http source: source-package-encodes-python-version
